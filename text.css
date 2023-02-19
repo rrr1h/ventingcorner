@@ -1,0 +1,8 @@
+<button onclick="window.location.href='https://www.youtube.com/watch?v=aFEIqn0r_lQ'">Redirect to Better Page</button>
+<button onclick="window.location.href='https://www.youtube.com/watch?v=SUelbSa-OkA'">Redirect to Sad Page</button>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    background-image: url('image.png');
+    background-size: 30%;
+}
